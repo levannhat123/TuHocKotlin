@@ -8,6 +8,7 @@ fun main(args: Array<String>) {
     var soa: Int=3
     var sob: Long=soa.toLong()
 
+
     println(sob)
 
 }
