@@ -6,7 +6,9 @@ fun main(args: Array<String>) {
 //   var result= a.times(b); nhân
 //   var result= a.div(b); chia
 //   var result= a.rem(b); chia lấy dư
+//   var result= a.div(b); chia
     var result= a+b;
+
     println(result);
 
 }
